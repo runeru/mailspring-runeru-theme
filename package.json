@@ -1,0 +1,13 @@
+{
+  "name": "runeru-mailspring-theme",
+  "title": "Runeru Theme",
+  "displayName": "Runeru Theme",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "Runerus dark theme",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  }
+}
+

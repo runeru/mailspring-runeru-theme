@@ -1,0 +1,52 @@
+/*
+Include the standard variables from Mailspring's base theme:
+https://github.com/Foundry376/Mailspring/blob/master/app/static/style/base/ui-variables.less
+*/
+@import "base/ui-variables";
+
+@gray-base: #ffffff;
+@gray-darker: darken(@gray-base, 13.5%);
+@gray-dark: darken(@gray-base, 20%);
+@gray: darken(@gray-base, 33.5%);
+@gray-light: darken(@gray-base, 46.7%);
+@gray-lighter: darken(@gray-base, 92.5%);
+@white: #ffffff;
+
+@accent-primary: #58A6FF;
+@accent-primary-dark: darken(@accent-primary, 40%);
+
+@background-primary: #161B22; //bakgrunn top-panel, mail-list og mail innhold
+@background-off-primary: #0D1117; // dunno
+@background-secondary: #0D1117; // bakgrunn bak innholdet i mailen
+@background-tertiary: #161B22; // dunno
+
+@border-color-primary: lighten(@background-primary, 10%); //ramme rundt dropdown boxene i feks preferences
+@border-color-secondary: lighten(@background-secondary, 10%); //ramme rundt de store vinduene accounts, mail, og mailinnholdet
+@border-color-tertiary: lighten(@background-tertiary, 10%);
+@border-color-divider: @border-color-secondary;
+
+@text-color: #C9D1D9;
+@text-color-subtle: fadeout(@text-color, 20%);
+@text-color-very-subtle: fadeout(@text-color, 40%);
+@text-color-inverse: white;
+@text-color-inverse-subtle: fadeout(@text-color-inverse, 20%);
+@text-color-inverse-very-subtle: fadeout(@text-color-inverse, 50%);
+@text-color-heading: #fff;
+
+@text-color-link: @accent-primary;
+@text-color-link-hover: @accent-primary-dark;
+@text-color-link-active: @accent-primary-dark;
+
+@btn-default-bg-color: lighten(@background-primary, 5%);
+@dropdown-default-bg-color: #161B22;//bakgrunnen i dropdown boxene, feks i preferences
+
+@input-bg: #0D1117; // bakgrunn søkefeltet
+@input-border: @border-color-divider;
+
+@list-bg: #161B22;
+@list-border: #343941; //tynne linja mellom mailene i inbox
+@list-selected-color: @text-color-inverse;
+@list-focused-color: @text-color;
+
+@toolbar-background-color: #7700ff; //dunno
+@panel-background-color: #0D1117; //bakgrunnen helt til venstre "all accounts og nedover"
