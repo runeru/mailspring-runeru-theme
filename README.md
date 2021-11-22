@@ -1,11 +1,13 @@
 <h1 align="center">
-  
+ <br>
+  <img src="logo-runeru.png" alt="Omni Logo" width="100">
+  <br>
 Runeru Mailspring Theme
   
 </h1>
 
 <h3 align="center">
-  <strong> A dark theme for <a href="https://getmailspring.com/">Mailspring</a></strong>  
+  <strong> A dark theme for <a href="https://getmailspring.com/">Mailspring</a></strong>, with colors from GitHub
 </h3>
 
 
