@@ -5,6 +5,17 @@
 Runeru Mailspring Theme
   
 </h1>
+<div align="center">
+
+
+![GitHub](https://img.shields.io/github/license/runeru/mailspring-runeru-theme?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/runeru/mailspring-runeru-theme?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/runeru/mailspring-runeru-theme?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/runeru/mailspring-runeru-theme?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/runeru/mailspring-runeru-theme?style=flat-square)
+
+
+</div>
 
 <h3 align="center">
   <strong> A dark theme for <a href="https://getmailspring.com/">Mailspring</a></strong>, with colors from GitHub
